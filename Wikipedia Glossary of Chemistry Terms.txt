@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="absolute_zero"></span><dt class="glossary" id="absolute_zero" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a></dfn></dt>
 <dd class="glossary">A theoretical condition concerning a <a href="/wiki/Physical_system" title="Physical system">system</a> at the lowest limit of the <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic temperature</a> scale, or zero <a href="#kelvin"><span title="See entry on this page at § kelvin" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">kelvins</span></a>, at which the system does not emit or absorb energy (i.e. all <a href="#atom"><span title="See entry on this page at § atom" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atoms</span></a> are at rest). By extrapolating the <a href="#ideal_gas_law"><span title="See entry on this page at § ideal gas law" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ideal gas law</span></a>, the internationally agreed-upon value for absolute zero has been determined as −273.15&#160;°C (−459.67&#160;°F; 0.00&#160;K).</dd>
@@ -192,7 +191,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="barometer"></span><dt class="glossary" id="barometer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Barometer" title="Barometer">barometer</a></dfn></dt>
 <dd class="glossary">A device used to measure atmospheric pressure.</dd>
@@ -298,7 +296,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="calorimeter"></span><dt class="glossary" id="calorimeter" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calorimeter" title="Calorimeter">calorimeter</a></dfn></dt>
 <dd class="glossary">A device used to measure <a href="#heat"><span title="See entry on this page at § heat" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">heat</span></a>.</dd>
@@ -507,7 +504,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="d-block"></span><dt class="glossary" id="d-block" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/D-block" class="mw-redirect" title="D-block">d-block</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -618,7 +614,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="earth_metal"></span><dt class="glossary" id="earth_metal" style="margin-top: 0.4em;"><dfn class="glossary">earth metal</dfn></dt>
 <dd class="glossary">See <i><a href="#alkaline_earth_metal"><span title="See entry on this page at § alkaline earth metal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alkaline earth metal</span></a></i>.</dd>
@@ -763,7 +758,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="f-block"></span><dt class="glossary" id="f-block" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/F-block" class="mw-redirect" title="F-block">f-block</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -895,7 +889,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="galvanic_cell"></span><dt class="glossary" id="galvanic_cell" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Galvanic_cell" title="Galvanic cell">galvanic cell</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Battery_(electricity)" class="mw-redirect" title="Battery (electricity)">battery</a> made up of electrochemicals with two different metals connected by a <a href="#salt_bridge"><span title="See entry on this page at § salt bridge" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">salt bridge</span></a>.</dd>
@@ -966,7 +959,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="halogen"></span><dt class="glossary" id="halogen" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Halogen" title="Halogen">halogen</a></dfn></dt>
 <dd class="glossary">Any of the five <a href="#non-metal"><span title="See entry on this page at § non-metal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">non-metallic</span></a> <a href="#element"><span title="See entry on this page at § element" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">elements</span></a> of <a href="#group"><span title="See entry on this page at § group" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Group 17</span></a> of the <a href="#periodic_table"><span title="See entry on this page at § periodic table" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">periodic table</span></a>: <a href="/wiki/Fluorine" title="Fluorine">fluorine</a> (F), <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> (Cl), <a href="/wiki/Bromine" title="Bromine">bromine</a> (Br), <a href="/wiki/Iodine" title="Iodine">iodine</a> (I), and <a href="/wiki/Astatine" title="Astatine">astatine</a> (At).</dd>
@@ -1047,7 +1039,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="ideal_gas"></span><dt class="glossary" id="ideal_gas" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1157,12 +1148,10 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="joule"></span><dt class="glossary" id="joule_(j)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Joule" title="Joule">joule</a> (J)</dfn></dt>
 <dd class="glossary">The <a href="#sI"><span title="See entry on this page at § SI" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">SI</span></a> unit of <a href="#energy"><span title="See entry on this page at § energy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy</span></a> (symbol: <i>J</i>). One joule is defined as one <a href="/wiki/Newton_(unit)" title="Newton (unit)">Newton</a>-<a href="/wiki/Meter" class="mw-redirect" title="Meter">meter</a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="kelvin"></span><dt class="glossary" id="kelvin_(k)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kelvin" title="Kelvin">kelvin</a> (K)</dfn></dt>
 <dd class="glossary">The <a href="#sI"><span title="See entry on this page at § SI" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">SI</span></a> base unit of <a href="#temperature"><span title="See entry on this page at § temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">temperature</span></a> (symbol: <i>K</i>). The Kelvin scale is an absolute <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic temperature</a> scale that uses <a href="#absolute_zero"><span title="See entry on this page at § absolute zero" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">absolute zero</span></a> as its null point.</dd>
@@ -1211,7 +1200,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="lability"></span><dt class="glossary" id="lability" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lability" title="Lability">lability</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1304,7 +1292,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="magnetic_quantum_number"></span><dt class="glossary" id="magnetic_quantum_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Magnetic_quantum_number" title="Magnetic quantum number">magnetic quantum number</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1436,7 +1423,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="natural_abundance"></span><dt class="glossary" id="natural_abundance" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Natural_abundance" title="Natural abundance">natural abundance</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1522,7 +1508,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="octet_rule"></span><dt class="glossary" id="octet_rule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Octet_rule" title="Octet rule">octet rule</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>Lewis octet rule</b>.</span></p>
@@ -1618,7 +1603,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="p-block"></span><dt class="glossary" id="p-block" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/P-block" class="mw-redirect" title="P-block">p-block</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1743,7 +1727,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="quantum_mechanics"></span><dt class="glossary" id="quantum_mechanics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a></dfn></dt>
 <dd class="glossary">The study of how atoms, molecules, <a href="#subatomic_particle"><span title="See entry on this page at § subatomic particle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">subatomic particles</span></a>, etc. behave and are structured.</dd>
@@ -1790,7 +1773,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="racemate"></span><dt class="glossary" id="racemate" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Racemate" class="mw-redirect" title="Racemate">racemate</a></dfn></dt>
 <dd class="glossary">An equimolar <a href="#mixture"><span title="See entry on this page at § mixture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mixture</span></a> of a pair of <a href="#enantiomer"><span title="See entry on this page at § enantiomer" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">enantiomers</span></a> which does not exhibit <a href="#optical_activity"><span title="See entry on this page at § optical activity" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">optical activity</span></a>. The chemical name or formula of a racemate is distinguished from those of the enantiomers by the prefix <i>(±)-</i> or by the symbols <i>RS</i> and <i>SR</i>.</dd>
@@ -1899,7 +1881,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="s-block"></span><dt class="glossary" id="s-block" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/S-block" class="mw-redirect" title="S-block">s-block</a></dfn></dt>
 <dd class="glossary">The collective name for the elements in Groups 1 and 2 of the <a href="#periodic_table"><span title="See entry on this page at § periodic table" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">periodic table</span></a> (the <a href="#alkali_metal"><span title="See entry on this page at § alkali metal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alkali</span></a> and <a href="#alkaline_metal"><span title="See entry on this page at § alkaline metal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alkaline metals</span></a>), as well as <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Helium" title="Helium">helium</a>.</dd>
@@ -2055,7 +2036,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="tarnish"></span><dt class="glossary" id="tarnish" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tarnish" title="Tarnish">tarnish</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -2147,7 +2127,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="UN_number"></span><dt class="glossary" id="un_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/UN_number" title="UN number">UN number</a></dfn></dt>
 <dd class="glossary">A four-digit code used to note hazardous and flammable substances.</dd>
@@ -2207,7 +2186,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="vacuum_flask"></span><dt class="glossary" id="vacuum_flask" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuum_flask" title="Vacuum flask">vacuum flask</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>Dewar flask</b> or <b>thermos</b>.</span></p>
@@ -2295,7 +2273,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="watch_glass"></span><dt class="glossary" id="watch_glass" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Watch_glass" title="Watch glass">watch glass</a></dfn></dt>
 <dd class="glossary">A circular, concave piece of glass commonly used in chemistry laboratories as a working surface for various purposes, such as evaporating liquids, holding solids while they are being weighed, heating small amounts of a substance, or as a cover for a <a href="#beaker"><span title="See entry on this page at § beaker" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">beaker</span></a>.</dd>
@@ -2357,7 +2334,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="X-ray"></span><dt class="glossary" id="x-ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X-ray" title="X-ray">X-ray</a></dfn></dt>
 <dd class="glossary">A form of ionizing, electromagnetic radiation between <a href="/wiki/Gamma_rays" class="mw-redirect" title="Gamma rays">gamma</a> and <a href="/wiki/Ultraviolet" title="Ultraviolet">UV</a> rays in the <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a>.</dd>
@@ -2403,12 +2379,10 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="yield"></span><dt class="glossary" id="yield" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yield_(chemistry)" title="Yield (chemistry)">yield</a></dfn></dt>
 <dd class="glossary">The quantifiable amount of <a href="#product"><span title="See entry on this page at § product" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">product</span></a> produced during a <a href="#chemical_reaction"><span title="See entry on this page at § chemical reaction" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chemical reaction</span></a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_chemistry_terms&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="zone_melting"></span><dt class="glossary" id="zone_melting" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zone_melting" title="Zone melting">zone melting</a></dfn></dt>
 <dd class="glossary">A way to remove impurities from an element by melting it and slowly travel down an ingot (cast).</dd>
